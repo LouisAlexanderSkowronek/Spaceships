@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# CMake build directory
+build/*
+
+# Copyrighted original files
+assets/original-icon.png
+assets/music/original-*.ogg
+
+# Other
+feature-ideas.txt
