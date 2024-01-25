@@ -1,5 +1,5 @@
 # Spaceships
-A simple 2D space-shooter written in C++ using SFML.
+A simple 2D space-shooter written in C++ using [SFML](https://www.sfml-dev.org/).
 
 ## How to try it out (Linux)
 
